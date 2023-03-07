@@ -27,4 +27,4 @@ for i in range(4,3,-1):
 
 print(Fore.LIGHTYELLOW_EX+ "Thank you")
 
-# If you have any confution then fell free contact with me- entridoy2@gmail.com
+# If you have any confution then fell free contact with me- entridoy2@gmail.com or linkedin: ridoyhossain
